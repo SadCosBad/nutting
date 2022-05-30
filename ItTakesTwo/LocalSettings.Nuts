@@ -1,0 +1,12 @@
+{
+	"TextureQuality": "Ultra",
+	"ShadowQuality": "Ultra",
+	"AntiAliasing": "MSAA4x",
+	"MaxAnisotropy": "Off",
+	"PostProcessingQuality": "Low",
+	"ResolutionScale": "70.000000",
+	"Gamma": "5.000000",
+	"MusicVolume": "0.000000",
+	"AudioChannelSetup": "Surround",
+	"AudioDynamicRange": "Medium"
+}
